@@ -1,0 +1,9 @@
+*.aux
+*.bbl
+*.dvi
+*.out
+*.blg
+*.out
+*.synctex.gz
+aamas2017_sample.log
+aamas2017_sample.pdf
